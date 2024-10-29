@@ -1,0 +1,19 @@
+{
+  "name": "automate-dex-ai-tagging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^22.7.5",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "ts-node": "^10.9.2"
+  }
+}
